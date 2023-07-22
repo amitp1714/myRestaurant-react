@@ -1,0 +1,12 @@
+.logo h1{
+ 
+    font-family: 'Arizonia', cursive;
+    color: rgb(235, 213, 18);
+}
+.nav-item{
+    font-family: 'Syncopate', sans-serif;
+}
+
+.nav-link:hover{
+    color: rgb(235,213,18);
+}

@@ -1,0 +1,15 @@
+.title{
+    font-family: 'Rubik Moonrocks', cursive;
+}
+.booking-btn{
+    border: 1px solid transparent;
+    background-color: rgb(235,213,18);
+    color: black;
+    padding: 5px 20px;
+    border-radius: 5px;
+}
+.booking-btn:hover{
+    background-color: transparent;
+    color: rgb(235,213,18);
+    border-color: rgb(235,213,18);
+}
